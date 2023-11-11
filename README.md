@@ -2,6 +2,10 @@
 
 This Node.js script utilizes Axios and Cheerio to scrape and extract historical events from the timeline of a GitHub issue. It is designed to fetch relevant data such as when an issue was moved between projects.
 
+## Note
+
+Works for "Projects (beta)" and issues that are still on board.
+
 ## Usage
 
 1. Replace the placeholders in the script with your GitHub cookies, owner name, repository name, and issue number.
