@@ -10,7 +10,9 @@ Not working for "Projects (classic)".
 ## Usage
 
 1. Replace the placeholders in the script with your GitHub cookies, owner name, repository name, and issue number.
-2. Run the script using Node.js.
+2. Don't forget to use "**device_id**" and "**user_session**" from GitHub cookie, you can use browser devtools for this.
+3. Add "**owner**" of the project, "**repository_name**" and "**issue_number**". Issue number is usually last digits on the url like "....issues/**1189**"
+4. Run the script using Node.js.
 
 ```bash
 node script.js
