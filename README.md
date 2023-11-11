@@ -5,6 +5,7 @@ This Node.js script utilizes Axios and Cheerio to scrape and extract historical 
 ## Note
 
 Works for "Projects (beta)" and issues that are still on board.
+Not working for "Projects (classic)".
 
 ## Usage
 
